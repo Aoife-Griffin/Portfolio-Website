@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Basic Skeleton Structure
+Made sure Node.js (LTS version) was installed
+Created folder structure
+Configured my colors (purple, yellow, cream)
+Built the navbar
+Made a simple homepage
+
+## Solved Merge Conflict
+The GitHub repository already contained a commits that your local repository doesn't have (in this case a README created on GitHub)
+ran git pull origin main --allow-unrelated-histories
+kept my local read me
