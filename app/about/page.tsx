@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import CountUp from "react-countup";
 import HoneycombParticle from "../../components/HoneycombParticle";
+import ProjectCard from "../../components/ProjectCard";
 
 export default function AboutPage() {
   const funFacts = [
@@ -389,6 +390,8 @@ function StatCard({
       </p>
 
     </div>
+
+    
   );
 }
 
